@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.AssemblyInfo.cs
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EX\task011\bin\Debug\net6.0\task011.exe
+C:\Users\user\Desktop\EX\task011\bin\Debug\net6.0\task011.deps.json
+C:\Users\user\Desktop\EX\task011\bin\Debug\net6.0\task011.runtimeconfig.json
+C:\Users\user\Desktop\EX\task011\bin\Debug\net6.0\task011.dll
+C:\Users\user\Desktop\EX\task011\bin\Debug\net6.0\task011.pdb
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.dll
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\refint\task011.dll
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.pdb
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\task011.genruntimeconfig.cache
+C:\Users\user\Desktop\EX\task011\obj\Debug\net6.0\ref\task011.dll
